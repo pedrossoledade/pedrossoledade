@@ -4,15 +4,6 @@
 
 📑 Apaixonado por Documentação | Gestão de Projetos | Aprendizado Contínuo
 
-Oi! Sou estudante de Engenharia de Software com um grande interesse em tornar ideias complexas mais fáceis de entender. Minha paixão está na documentação, gestão de projetos e no desenvolvimento de soluções que realmente funcionam no mundo real.
-
-Atuo em na Mega Jr., uma empresa júnior, onde aprendi a trabalhar em equipe, enfrentar desafios reais de clientes e aprimorar minha capacidade de comunicar conceitos técnicos de forma clara e objetiva. Acredito que uma documentação bem estruturada é a base para projetos bem-sucedidos e para a eficiência das equipes.
-
-## 💡 O Que Eu Ofereço:
-- Experiência em documentação de software e fluxos de projeto
-- Mentalidade voltada para a resolução de problemas e melhoria contínua
-- Paixão por conectar engenharia e comunicação de forma eficiente
-
 Estou sempre pronto para colaborar, aprender e contribuir em projetos impactantes. Vamos construir algo incrível juntos!
 
 ---
