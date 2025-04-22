@@ -28,12 +28,3 @@ Estou sempre pronto para colaborar, aprender e contribuir em projetos impactante
 - [LinkedIn](https://www.linkedin.com/in/pedrossoledade)
 
 💡 *"Documentação não é apenas sobre escrever; é sobre tornar o conhecimento acessível e a colaboração mais fluida."*
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrossoledade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200px" style="margin-right: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrossoledade&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6" alt="Top Languages" height="200px"/>
-</div>
