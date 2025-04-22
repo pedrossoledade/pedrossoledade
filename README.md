@@ -2,8 +2,6 @@
 
 🎓 Graduando em Engenharia de Software | UFMS
 
-📑 Apaixonado por Documentação | Gestão de Projetos | Aprendizado Contínuo
-
 Estou sempre pronto para colaborar, aprender e contribuir em projetos impactantes. Vamos construir algo incrível juntos!
 
 ---
